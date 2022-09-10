@@ -1,0 +1,43 @@
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2020.2 (64-bit)
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [HLS 200-1505] Using default flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a35tcpg236-1 
+INFO: [HLS 200-10] Setting target device to 'xc7a35t-cpg236-1'
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_mix_config.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_mix_config.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_mix.cpp 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_mix.cpp' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_mix.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_mix.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_dma.cpp 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_dma.cpp' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_dma.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_dma.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_csc.cpp 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_csc.cpp' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_csc.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/v_csc.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls_video.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls_video.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls_opencv.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls_opencv.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_axi_io.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_axi_io.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_arithm.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_arithm.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_core.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_core.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_fast.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_fast.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_haar.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_haar.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_harris.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_harris.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_histogram.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_histogram.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_hough.h 
+INFO: [HLS 200-10] Adding design file 'c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_hough.h' to the project
+INFO: [HLS 200-1510] Running: add_files -cflags  -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls -I c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src  c:/FPGAProjects/CS1/CS1.gen/sources_1/bd/design_1/ip/design_1_v_mix_0_0/src/hls/hls_video_imgbase.h 
+INFO: [HLS 200-10] Adding de

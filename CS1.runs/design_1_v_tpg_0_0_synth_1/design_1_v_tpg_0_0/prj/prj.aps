@@ -1,0 +1,22 @@
+<AutoPilot:solution xmlns:AutoPilot="com.autoesl.autopilot.solution">
+    <name>
+        <value string="prj"/>
+    </name>
+    <project>
+        <value string="design_1_v_tpg_0_0"/>
+    </project>
+    <flowTarget value="vivado"/>
+    <targetInfo>
+        <TargetInfo value="xc7a35t:-cpg236:-1"/>
+    </targetInfo>
+    <libraryList>
+        <library value="xilinx/artix7/artix7" name="DefaultPlatform"/>
+    </libraryList>
+    <clockList>
+        <clock name="ap_clk" period="20" default="false"/>
+    </clockList>
+    <config>
+        <config_rtl module_prefix="design_1_v_tpg_0_0_"/>
+    </config>
+</AutoPilot:solution>
+
